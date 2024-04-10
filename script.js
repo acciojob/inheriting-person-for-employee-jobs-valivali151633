@@ -5,7 +5,7 @@ class Person {
 		this.age = age;
 	}
 	greet(){
-		return `Hello, my name is ${this.name} , I am ${this.age} years old.`
+		return `Hello, my name is ${this.name}, I am ${this.age} years old.`
 	}
 }
 
